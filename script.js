@@ -2,7 +2,7 @@ function login() {
     let email = document.getElementById("email").value;
     let password = document.getElementById("password").value;
 
-    // Proper credentials
+    
     let validEmail = "admin@cbit.com";
     let validPassword = "12345";
 
